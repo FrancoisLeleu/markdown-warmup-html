@@ -1,10 +1,14 @@
-html { 
-    background-image: url('https://p0.pikist.com/photos/860/148/nature-forest-landscape-at-night-black-forest-dark-mystical-full-moon-moon.jpg');color:white; padding:10px; background-repeat: no-repeat;
+body { 
+    background: url('image/pikist.jpg');
+    color:white; 
+    background-repeat: no-repeat;
+  
     background-color: #e9e9e9;
+    background-size: cover;
 }
 
 .lune {
-    text-align: center;color: whitesmoke;
+    text-align: center;color: rgb(14, 12, 112);
 
         filter : drop-shadow(5px 9px 2px black);
 }
