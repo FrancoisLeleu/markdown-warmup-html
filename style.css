@@ -1,5 +1,5 @@
-html { 
-    background-image: url('markdown-warmup-html/image');
+body { 
+    background: url('image/pikist.jpg');
     color:white; 
     background-repeat: no-repeat;
     background-position: center;
